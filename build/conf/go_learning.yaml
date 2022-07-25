@@ -1,0 +1,7 @@
+server: #服务端配置
+  ip: 0.0.0.0 #服务监听ip地址
+  port: 80 #服务监听端口
+
+log: #日志配置
+  writer: console #控制台标准输出 默认
+  level: debug #标准输出日志的级别
